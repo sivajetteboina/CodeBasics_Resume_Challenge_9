@@ -18,13 +18,23 @@ The analysis is based on data obtained from AtliQ Mart's internal databases. The
 
 # Business Requests
 
-# High-Value Products in 'BOGOF' Promotion
+# 1. High-Value Products in 'BOGOF' Promotion
 Objective: Identify high-value products featured in the 'BOGOF' (Buy One Get One Free) promotion.
 
-  SELECT 
-     DISTINCT(product_name),
-     base_price
-     FROM 
-     fact_events
-     JOIN
-     dim_products USING (product_code)
+# 2. Store Presence Overview
+Objective: Provide an overview of the number of stores in each city.
+
+# 3.Promotional Campaign Revenue Analysis
+Objective: Display total revenue generated before and after each promotional campaign.
+
+# 4. Incremental Sold Quantity Analysis during Diwali Campaign
+Objective: Calculate Incremental Sold Quantity (ISU%) for each category during the Diwali campaign.
+
+# 5. Top 5 Products by Incremental Revenue Percentage
+Objective: Identify the top 5 products ranked by Incremental Revenue Percentage (IR%) across all campaigns
+
+# Conclusion
+Overall, the analysis provides valuable insights into the performance of promotional campaigns conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024. By leveraging data analytics, AtliQ Mart can enhance its marketing strategies, attract more customers, and drive higher sales during festive seasons.
+
+# Interactive Dashboard
+[Link to Interactive dashboard]([https://app.powerbi.com/groups/me/reports/e2dccd0c-805c-4deb-8ce1-974d03e166ca/ReportSectionce2063a216d8e001051e?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiMjM0NTRhMmItMTRmZS00MGRlLWIzNmMtYTE0Y2U0OTVkNDdkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
