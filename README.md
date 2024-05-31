@@ -39,4 +39,7 @@ Overall, the analysis provides valuable insights into the performance of promoti
 ## Interactive Dashboard
 [Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjM0NTRhMmItMTRmZS00MGRlLWIzNmMtYTE0Y2U0OTVkNDdkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-![Promotional](https://github.com/sivajetteboina/CodeBasics_Resume_Challenge_9/assets/144469525/3908c278-03d8-4ed5-b172-352a1f6c6a72)
+Homepage of the Dashboard 
+![capture_240531_114330](https://github.com/sivajetteboina/CodeBasics_Resume_Challenge_9/assets/144469525/6696e976-a3dd-45b9-8182-953bc9911eae)
+
+
