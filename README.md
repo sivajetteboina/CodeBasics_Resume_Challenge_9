@@ -18,7 +18,7 @@ The analysis is based on data obtained from AtliQ Mart's internal databases. The
 
 # Business Requests
 
-# 1. High-Value Products in 'BOGOF' Promotion
+### 1. High-Value Products in 'BOGOF' Promotion
 Objective: Identify high-value products featured in the 'BOGOF' (Buy One Get One Free) promotion.
 
 # 2. Store Presence Overview
