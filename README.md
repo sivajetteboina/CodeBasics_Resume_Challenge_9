@@ -21,16 +21,16 @@ The analysis is based on data obtained from AtliQ Mart's internal databases. The
 ### 1. High-Value Products in 'BOGOF' Promotion
 Objective: Identify high-value products featured in the 'BOGOF' (Buy One Get One Free) promotion.
 
-# 2. Store Presence Overview
+### 2. Store Presence Overview
 Objective: Provide an overview of the number of stores in each city.
 
-# 3.Promotional Campaign Revenue Analysis
+### 3.Promotional Campaign Revenue Analysis
 Objective: Display total revenue generated before and after each promotional campaign.
 
-# 4. Incremental Sold Quantity Analysis during Diwali Campaign
+### 4. Incremental Sold Quantity Analysis during Diwali Campaign
 Objective: Calculate Incremental Sold Quantity (ISU%) for each category during the Diwali campaign.
 
-# 5. Top 5 Products by Incremental Revenue Percentage
+### 5. Top 5 Products by Incremental Revenue Percentage
 Objective: Identify the top 5 products ranked by Incremental Revenue Percentage (IR%) across all campaigns
 
 # Conclusion
