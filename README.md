@@ -37,4 +37,4 @@ Objective: Identify the top 5 products ranked by Incremental Revenue Percentage 
 Overall, the analysis provides valuable insights into the performance of promotional campaigns conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024. By leveraging data analytics, AtliQ Mart can enhance its marketing strategies, attract more customers, and drive higher sales during festive seasons.
 
 ## Interactive Dashboard
-[Link to Interactive dashboard]([https://app.powerbi.com/groups/me/reports/e2dccd0c-805c-4deb-8ce1-974d03e166ca/ReportSectionce2063a216d8e001051e?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiMjM0NTRhMmItMTRmZS00MGRlLWIzNmMtYTE0Y2U0OTVkNDdkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjM0NTRhMmItMTRmZS00MGRlLWIzNmMtYTE0Y2U0OTVkNDdkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
